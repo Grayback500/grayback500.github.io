@@ -11,8 +11,8 @@ I'm a Computer Science student located in Austin, Texas. As an avid learner, and
 I started this blog for three main reasons: As a way to archive my own learning and  progress, create comprehensive and human-friendly guides, and share reviews and opinions that might give back to this community which thrives on (and arguably only exists through) collaboration and conversation.
 
 My main areas of interest are as follows:
-- ****Professionally****: C/C++, Python, Networking, and OSS
-- **Personally****: Linux, Homelab projects, Digital Workflow Setups/Productivity, and Game Development
+- **Professionally**: C/C++, Python, Networking, and OSS
+- **Personally**: Linux, Homelab projects, Digital Workflow Setups/Productivity, and Game Development
 - **Offline**: I love the all sorts of fantasy (most sub-genres, across any medium), visiting the brigade of local specialty cafe's in Austin, and discovering new music!
 
 ### More Information
