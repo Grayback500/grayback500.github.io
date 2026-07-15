@@ -1,9 +1,3 @@
----
-layout: page
-title: Writing
-permalink: /writing/
----
-
 # Poetry
 
 ## The False Front's Burnout (2021)
