@@ -1,3 +1,8 @@
+---
+layout: writing
+---
+# Poetry 
+
 ## The False Front's Burnout (2021)
 And in time, I’d become content with all my misery. 
 They tie me down, but treat my struggle like a mystery. 
